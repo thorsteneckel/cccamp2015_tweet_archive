@@ -34,7 +34,7 @@ if File.exist?( state_file )
 end
 
 
-%w( cccamp2015 cccamp cccamp15 ).each { |hashtag|
+%w( cccamp2015 cccamp cccamp15 rad1o rad1obadge ).each { |hashtag|
 
 begin
 

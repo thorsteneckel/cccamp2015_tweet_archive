@@ -1,6 +1,6 @@
 # CCCamp 2015 tweet archive
 
-This repository contains a JSON file of all tweets with the hashtags #cccamp2015 #cccamp15 and #cccamp since 2015-08-08 22:38:29 +0200 and a Ruby script to update it.
+This repository contains a JSON file of all tweets with the hashtags #cccamp2015 #cccamp15, #cccamp, #rad1o and #rad1obadge since 2015-08-08 22:38:29 +0200 and a Ruby script to update it.
 
 ## Archive
 
